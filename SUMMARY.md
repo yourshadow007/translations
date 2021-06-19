@@ -4,9 +4,6 @@
 
 ## Spring Cloud Gateway
 
+* [第一章](spring-cloud-gateway/di-yi-zhang.md)
 * [Spring Cloud Gateway](spring-cloud-gateway/spring-cloud-gateway.md)
-
----
-
-* [概要](gai-yao.md)
 
