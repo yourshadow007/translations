@@ -4,6 +4,6 @@
 
 ## Spring Cloud Gateway
 
-* [第一章](spring-cloud-gateway/overview.md)
+* [概要](spring-cloud-gateway/overview.md)
 * [Spring Cloud Gateway](spring-cloud-gateway/spring-cloud-gateway.md)
 
