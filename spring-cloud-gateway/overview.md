@@ -1,21 +1,21 @@
 # 概要
 
-This project provides a library for building an API Gateway on top of Spring WebFlux. Spring Cloud Gateway aims to provide a simple, yet effective way to route to APIs and provide cross cutting concer
+该项目（Spring Cloud Gateway ）旨在建立一种用于Spring WebFlux的API网关库，它是一种简单且高效的API路由及转发中心。
 
-### Features <a id="features"></a>
+### 特性 <a id="features"></a>
 
-Spring Cloud Gateway features:
+Spring Cloud Gateway 的特性:
 
-* Built on Spring Framework 5, Project Reactor and Spring Boot 2.0
-* Able to match routes on any request attribute.
-* Predicates and filters are specific to routes.
-* Circuit Breaker integration.
-* Spring Cloud DiscoveryClient integration
-* Easy to write Predicates and Filters
-* Request Rate Limiting
-* Path Rewriting
+* 基于Framework 5，Reactor技术及Spring Boot 2.0构建
+* 支持匹配路由以及任意的Request请求属性
+* 具有断言以及过滤器的能力
+* 集成了断路器功能
+* 集成Spring Cloud 注册发现功能
+* 可以快速自定义断言及过滤器
+* 支持简单的限流功能
+* 具有路径重写能力
 
-### Getting Started <a id="getting-started"></a>
+### 开始学习 <a id="getting-started"></a>
 
 ```text
 @SpringBootApplication
